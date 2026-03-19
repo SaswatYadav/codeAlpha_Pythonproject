@@ -1,0 +1,7 @@
+Stock | Shares | Price | Subtotal
+-----------------------------------
+AAPL: 10 shares @ $180 = $1800
+TSLA: 20 shares @ $250 = $5000
+GOOGL: 25 shares @ $140 = $3500
+
+Total Investment Value: $10300
